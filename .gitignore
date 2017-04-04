@@ -1,0 +1,7 @@
+/venv
+*.py[co]
+db.sqlite3
+__pycache__
+MANIFEST
+build/
+dist/
